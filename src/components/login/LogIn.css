@@ -1,0 +1,20 @@
+.main{
+    text-align: center;
+    justify-content: center;
+    display:flex;
+    padding: 10px;
+}
+
+.sub{
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    width: 300px;
+    background-color:aliceblue;
+    padding: 10px;
+}
+
+.span_in{
+    color: red;
+    font-size: 22px;
+}

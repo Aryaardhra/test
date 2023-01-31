@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "first_name": "abc",
+      "last_name": "def",
+      "email": "abc@gmail.com",
+      "id": 1,
+      "image": "https://robohash.org/hicveldicta.png"
+    },
+    {
+      "first_name": "ghi",
+      "last_name": "jkl",
+      "email": "ghi@gmail.com",
+      "id": 2,
+      "image": "https://robohash.org/doloremquesintcorrupti.png"
+    },
+    {
+      "first_name": "mno",
+      "last_name": "pqr",
+      "email": "mno@gmail.com",
+      "id": 3,
+      "image": "https://robohash.org/consequunturautconsequatur.png"
+    },
+    {
+      "first_name": "stu",
+      "last_name": "vwx",
+      "email": "stu@gmail.com",
+      "id": 4,
+      "image": "https://robohash.org/facilisdignissimosdolore.png"
+    },
+    {
+      "first_name": "yzc",
+      "last_name": "kmn",
+      "email": "yzc@gmail.com",
+      "id": 5
+    },
+    {
+      "first_name": "jiv",
+      "last_name": "svu",
+      "email": "jiv@gmail.com",
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ]
+}

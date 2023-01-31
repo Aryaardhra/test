@@ -1,0 +1,7 @@
+.form-row{
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    padding-right: 20px;
+    align-items: center;
+}
